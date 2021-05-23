@@ -3,29 +3,29 @@ function countdown(){
   // Time Table
   var week = {
     Mon: {
-      9: "Microsoft Package Workshop (AM)",
+      9: "Microsoft Office Package Workshop (AM)",
       11: "Mathematics I (MCK)",
       12: "C Programming (RT)"
     },
     Tue: {
-      9: "Microsoft Package Workshop (AM)",
+      9: "Microsoft Office Package Workshop (AM)",
       11: "Mathematics I (MCK)",
       12: "C Programming (RT)"
     },
     Wed: {
-      9: "Microsoft Package Workshop (AM)",
+      9: "Microsoft Office Package Workshop (AM)",
       10: "Digital Logic (RG)",
       11: "Physics (SA)",
       12: "Introdcution to IT (JP)"
     },
     Thu: {
-      9: "Microsoft Package Workshop (AM)",
+      9: "Microsoft Office Package Workshop (AM)",
       10: "Digital Logic (RG)",
       11: "Physics (SA)",
       12: "Introdcution to IT (JP)"
     },
     Fri: {
-      9: "Microsoft Package Workshop (AM)",
+      9: "Microsoft Office Package Workshop (AM)",
      10: "Digital Logic (RG)",
       11: "Physics (SA)",
       12: "Introdcution to IT (JP)"
@@ -33,7 +33,7 @@ function countdown(){
     Sat: {
     },
     Sun: {
-      9: "Microsoft Package Workshop (AM)",
+      9: "Microsoft Office Package Workshop (AM)",
       11: "Mathematics I (MCK)",
       12: "C Programming (RT)"
     }
