@@ -110,7 +110,7 @@ function countdown(){
     if(week[day][key] != undefined) {
       document.getElementById(classId[x]).textContent = week[day][String(key)];
     } else {
-      document.getElementById(classId[x]).innerHTML = `<a href="https://www.youtube.com/watch?v=0wHYHMpHmSg">No Classes, Yay !</a> <img src="https://c.tenor.com/b46GRzAmGeYAAAAj/chika-dance.gif"  width="30" height="30">`;
+      document.getElementById(classId[x]).innerHTML = `<a href="https://www.youtube.com/watch?v=0wHYHMpHmSg" target="_blank">No Classes, Yay !</a> <img src="https://c.tenor.com/b46GRzAmGeYAAAAj/chika-dance.gif"  width="30" height="30">`;
     }
     if(key !=12) {
       key += 1;
