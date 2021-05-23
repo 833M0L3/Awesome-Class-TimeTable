@@ -104,7 +104,7 @@ function countdown(){
     if(week[day][key] != undefined) {
       document.getElementById(classId[x]).textContent = week[day][String(key)];
     } else {
-      document.getElementById(classId[x]).textContent = "No Class, Yay!"
+      document.getElementById(classId[x]).textContent = "<a href="https://www.youtube.com/watch?v=0wHYHMpHmSg">No Class, Let's Dance</a>"
     }
     if(key !=12) {
       key += 1;
