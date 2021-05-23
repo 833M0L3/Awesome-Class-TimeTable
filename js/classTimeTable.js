@@ -3,40 +3,34 @@ function countdown(){
   // Time Table
   var week = {
     Mon: {
-      10: "MPMC(LSPR, CR6)",
-      11: "MATH-IV(RRP,CR6)",
-      12: "DBMS(DD, CR6)",
-      14: "DBMS Lab (DD, PL1)"
+      11: "Mathematics I (MCK)",
+      12: "C Programming (RT)"
     },
     Tue: {
-      9: "OS(MP, CR5)",
-      10: "MATH IV(RRP,CR6)",
-      11: "POC(PS, CR6)",
-      14: "MP Lab(LSPR, PL3)"
+      11: "Mathematics I (MCK)",
+      12: "C Programming (RT)"
     },
     Wed: {
-      9: "MPMC(LSPR, CR6)",
-      10: "OS(MP, CR5)",
-      11: "DBMS(DD, CR5)",
-      12: "POC(PS, CR5)"
+      10: "Digital Logic (RG)",
+      11: "Physics (SA)",
+      12: "Introdcution to IT (JP)"
     },
     Thu: {
-      9: "OS(MP, CR5)",
-      10: "MATH-IV(RRP, CR6)",
-      11: "POC(PS, CR6)"
+      10: "Digital Logic (RG)",
+      11: "Physics (SA)",
+      12: "Introdcution to IT (JP)"
     },
     Fri: {
-      9: "MATH-IV(RRP,CR5)",
-      10: "MPMC(LSPR,CR6)",
-      11: "DBMS(DD, CR6)"
+     10: "Digital Logic (RG)",
+      11: "Physics (SA)",
+      12: "Introdcution to IT (JP)"
     },
     Sat: {
-      9: "DBMS(DD,CR5)",
-      10: "MPMC(LSPR,CR6)",
-      11: "OS(MP, CR6)",
-      14: "POC(PS,CR1)"
     },
-    Sun: {}
+    Sun: {
+      11: "Mathematics I (MCK)",
+      12: "C Programming (RT)"
+    }
   }
 
   var now = new Date();
