@@ -16,19 +16,19 @@ function countdown(){
       9: "Microsoft Office Package Workshop (AM)",
       10: "Digital Logic (RG)",
       11: "Physics (SA)",
-      12: "Introdcution to IT (JP)"
+      12: "Introduction to IT (JP)"
     },
     Thu: {
       9: "Microsoft Office Package Workshop (AM)",
       10: "Digital Logic (RG)",
       11: "Physics (SA)",
-      12: "Introdcution to IT (JP)"
+      12: "Introduction to IT (JP)"
     },
     Fri: {
       9: "Microsoft Office Package Workshop (AM)",
      10: "Digital Logic (RG)",
       11: "Physics (SA)",
-      12: "Introdcution to IT (JP)"
+      12: "Introduction to IT (JP)"
     },
     Sat: {
     },
