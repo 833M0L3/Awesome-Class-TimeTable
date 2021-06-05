@@ -14,21 +14,21 @@ function countdown(){
     },
     Wed: {
       9: "Microsoft Office Package Workshop (AM)",
-      10: "Digital Logic (RG)",
-      11: "Physics (SA)",
-      12: "Introduction to IT (JP)"
+      10: "Digital Logics (RG)",
+      12: "Introduction to IT (JP)",
+      13: "Physics (SA)"
     },
     Thu: {
       9: "Microsoft Office Package Workshop (AM)",
-      10: "Digital Logic (RG)",
-      11: "Physics (SA)",
-      12: "Introduction to IT (JP)"
+      10: "Digital Logics (RG)",
+      12: "Introduction to IT (JP)",
+      13: "Physics (SA)"
     },
     Fri: {
       9: "Microsoft Office Package Workshop (AM)",
-     10: "Digital Logic (RG)",
-      11: "Physics (SA)",
-      12: "Introduction to IT (JP)"
+      10: "Digital Logics (RG)",
+      12: "Introduction to IT (JP)",
+      13: "Physics (SA)"
     },
     Sat: {
     },
