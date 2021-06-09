@@ -16,19 +16,19 @@ function countdown(){
       9: "Microsoft Office Package Workshop (AM)",
       10: "Digital Logics (RG)",
       12: "Introduction to IT (JP)",
-      13: "Physics (SA)"
+      14: "Physics (SA)"
     },
     Thu: {
       9: "Microsoft Office Package Workshop (AM)",
       10: "Digital Logics (RG)",
       12: "Introduction to IT (JP)",
-      13: "Physics (SA)"
+      14: "Physics (SA)"
     },
     Fri: {
       9: "Microsoft Office Package Workshop (AM)",
       10: "Digital Logics (RG)",
       12: "Introduction to IT (JP)",
-      13: "Physics (SA)"
+      14: "Physics (SA)"
     },
     Sat: {
     },
@@ -104,7 +104,7 @@ function countdown(){
   }
 
 
-  classId = ["nine", "ten", "eleven", "twelve", "two"];
+  classId = ["nine", "ten", "eleven", "twelve", "one", "two"];
   var key = 9;
   for (var x in classId) {
     if(week[day][key] != undefined) {
