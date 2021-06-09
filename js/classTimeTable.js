@@ -112,7 +112,7 @@ function countdown(){
     } else {
       document.getElementById(classId[x]).innerHTML = `<a href="https://www.youtube.com/watch?v=0wHYHMpHmSg" target="_blank">No Classes, Yay !</a> <img src="https://c.tenor.com/b46GRzAmGeYAAAAj/chika-dance.gif"  width="30" height="30">`;
     }
-    if(key !=12) {
+    if(key !=13) {
       key += 1;
     } else {
       key +=2;
