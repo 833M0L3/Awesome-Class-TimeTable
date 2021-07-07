@@ -3,29 +3,24 @@ function countdown(){
   // Time Table
   var week = {
     Mon: {
-      9: "Microsoft Office Package Workshop (AM)",
       11: "Mathematics I (MCK)",
       12: "C Programming (RT)"
     },
     Tue: {
-      9: "Microsoft Office Package Workshop (AM)",
       11: "Mathematics I (MCK)",
       12: "C Programming (RT)"
     },
     Wed: {
-      9: "Microsoft Office Package Workshop (AM)",
       10: "Digital Logics (RG)",
       12: "Introduction to IT (JP)",
       13: "Physics (SA)"
     },
     Thu: {
-      9: "Microsoft Office Package Workshop (AM)",
       10: "Digital Logics (RG)",
       12: "Introduction to IT (JP)",
       13: "Physics (SA)"
     },
     Fri: {
-      9: "Microsoft Office Package Workshop (AM)",
       10: "Digital Logics (RG)",
       12: "Introduction to IT (JP)",
       13: "Physics (SA)"
@@ -33,7 +28,6 @@ function countdown(){
     Sat: {
     },
     Sun: {
-      9: "Microsoft Office Package Workshop (AM)",
       11: "Mathematics I (MCK)",
       12: "C Programming (RT)"
     }
@@ -110,7 +104,7 @@ function countdown(){
     if(week[day][key] != undefined) {
       document.getElementById(classId[x]).textContent = week[day][String(key)];
     } else {
-      document.getElementById(classId[x]).innerHTML = `<a href="https://www.youtube.com/watch?v=0wHYHMpHmSg" target="_blank">No Classes, Yay !</a> <img src="https://i.pinimg.com/originals/74/b9/7f/74b97fc94c3fb519384461a3046e2e4a.gif"  width="30" height="30">`;
+      document.getElementById(classId[x]).innerHTML = `<a href="https://www.youtube.com/watch?v=0wHYHMpHmSg" target="_blank">No Classes, Yay !</a> <img src="https://c.tenor.com/b46GRzAmGeYAAAAj/chika-dance.gif"  width="30" height="30">`;
     }
     if(key !=13) {
       key += 1;
