@@ -99,7 +99,7 @@ function countdown(){
 
 
   classId = ["eight", "nine", "ten", "eleven", "twelve", "one", "two"];
-  var key = 9;
+  var key = 8;
   for (var x in classId) {
     if(week[day][key] != undefined) {
       document.getElementById(classId[x]).textContent = week[day][String(key)];
