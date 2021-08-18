@@ -11,19 +11,19 @@ function countdown(){
       12: "C Programming (RT)"
     },
     Wed: {
+       8: "Physics (SA)",
       10: "Digital Logics (RG)",
-      12: "Introduction to IT (JP)",
-      13: "Physics (SA)"
+      12: "Introduction to IT (JP)"
     },
     Thu: {
+       8: "Physics (SA)",
       10: "Digital Logics (RG)",
-      12: "Introduction to IT (JP)",
-      13: "Physics (SA)"
+      12: "Introduction to IT (JP)"
     },
     Fri: {
+       8: "Physics (SA)",
       10: "Digital Logics (RG)",
-      12: "Introduction to IT (JP)",
-      13: "Physics (SA)"
+      12: "Introduction to IT (JP)"
     },
     Sat: {
     },
@@ -98,7 +98,7 @@ function countdown(){
   }
 
 
-  classId = ["nine", "ten", "eleven", "twelve", "one", "two"];
+  classId = ["eight", "nine", "ten", "eleven", "twelve", "one", "two"];
   var key = 9;
   for (var x in classId) {
     if(week[day][key] != undefined) {
